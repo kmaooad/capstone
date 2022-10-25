@@ -13,7 +13,7 @@
 
 ## App Capabilities
 
-Note: Unspecified data fields and/or relations can be chosen freely, but only when absolutely required. Unnecessary details that can be skipped – should be skipped.
+**Note: Unspecified data fields and/or relations can be chosen freely, but only when absolutely required. Unnecessary details that can be skipped – should be skipped.**
 
 * ACL
     * Check access
